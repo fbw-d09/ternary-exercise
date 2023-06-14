@@ -11,7 +11,7 @@ Refator the following 2 examples as a ternary
 1.
 ```javascript
 const score = 80;
-let ;
+let scoreRating;
 
 if (score > 70) {
     scoreRating = "Excellent"
